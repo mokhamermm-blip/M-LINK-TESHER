@@ -1,0 +1,13 @@
+form{
+  background-color: black;
+  border: double aqua 200px;
+  padding: 40px;
+  margin: 200px;
+  text-align: center;
+}
+input:focus{
+   outline-color: rgb(16, 16, 95);
+}
+button:focus{
+    outline-color: rgb(0, 109, 109);
+}
